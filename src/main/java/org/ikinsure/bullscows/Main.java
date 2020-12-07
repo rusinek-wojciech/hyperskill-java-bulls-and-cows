@@ -1,4 +1,4 @@
-package org.ikinsure.easy.bullscows;
+package org.ikinsure.bullscows;
 
 import java.util.Random;
 import java.util.Scanner;
